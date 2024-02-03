@@ -1,0 +1,72 @@
+2024-02-01 12:02:272 INFO  ManageBrowser :35 - Chrome Browser Launch .....
+2024-02-01 12:02:471 INFO  HomePage :28 - Verifying Homepage Url
+2024-02-01 12:02:697 INFO  ManageBrowser :35 - Chrome Browser Launch .....
+2024-02-01 12:02:433 INFO  HomePage :28 - Verifying Homepage Url
+2024-02-01 12:02:565 INFO  HomePage :34 - Click on accept All Cookies[[ChromeDriver: chrome on windows (34e588168dbb51a607490067d49be445)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-01 12:02:439 INFO  ManageBrowser :35 - Chrome Browser Launch .....
+2024-02-01 12:02:260 INFO  HomePage :28 - Verifying Homepage Url
+2024-02-01 12:02:397 INFO  HomePage :34 - Click on accept All Cookies[[ChromeDriver: chrome on windows (730c54da31a7e0187cb4545ba99cd4c6)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-01 12:02:819 INFO  LoginPage :40 - Clicking on LoginLink [[ChromeDriver: chrome on windows (730c54da31a7e0187cb4545ba99cd4c6)] -> link text: Login]
+2024-02-01 18:02:847 INFO  ManageBrowser :35 - Chrome Browser Launch .....
+2024-02-01 18:02:278 INFO  HomePage :28 - Verifying Homepage Url
+2024-02-01 18:02:373 INFO  HomePage :34 - Click on accept All Cookies[[ChromeDriver: chrome on windows (2e62a91de5f12930eca48bff1f2036c9)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-01 18:02:507 INFO  ManageBrowser :35 - Chrome Browser Launch .....
+2024-02-01 18:02:878 INFO  HomePage :28 - Verifying Homepage Url
+2024-02-01 18:02:966 INFO  HomePage :34 - Click on accept All Cookies[[ChromeDriver: chrome on windows (c75d60275066e6b61f69df6fcfaa1053)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-01 18:02:183 INFO  LoginPage :40 - Clicking on LoginLink [[ChromeDriver: chrome on windows (c75d60275066e6b61f69df6fcfaa1053)] -> link text: Login]
+2024-02-01 18:02:676 INFO  ManageBrowser :35 - Chrome Browser Launch .....
+2024-02-01 18:02:173 INFO  HomePage :28 - Verifying Homepage Url
+2024-02-01 18:02:255 INFO  HomePage :34 - Click on accept All Cookies[[ChromeDriver: chrome on windows (d79bb01efe957b55a5029ca1bb00ad48)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-01 18:02:471 INFO  LoginPage :40 - Clicking on LoginLink [[ChromeDriver: chrome on windows (d79bb01efe957b55a5029ca1bb00ad48)] -> link text: Login]
+2024-02-01 18:02:292 INFO  ManageBrowser :35 - Chrome Browser Launch .....
+2024-02-01 18:02:731 INFO  HomePage :28 - Verifying Homepage Url
+2024-02-01 18:02:825 INFO  HomePage :34 - Click on accept All Cookies[[ChromeDriver: chrome on windows (b59ce98fab22c3f40f9086106d92b4d1)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-01 18:02:45 INFO  LoginPage :40 - Clicking on LoginLink [[ChromeDriver: chrome on windows (b59ce98fab22c3f40f9086106d92b4d1)] -> link text: Login]
+2024-02-01 18:02:475 INFO  ManageBrowser :35 - Chrome Browser Launch .....
+2024-02-01 18:02:822 INFO  HomePage :28 - Verifying Homepage Url
+2024-02-01 18:02:902 INFO  HomePage :34 - Click on accept All Cookies[[ChromeDriver: chrome on windows (30a82476b53d1c29fb9f4097e12c27ac)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-01 18:02:86 INFO  LoginPage :40 - Clicking on LoginLink [[ChromeDriver: chrome on windows (30a82476b53d1c29fb9f4097e12c27ac)] -> link text: Login]
+2024-02-01 18:02:95 INFO  ManageBrowser :35 - Chrome Browser Launch .....
+2024-02-01 18:02:485 INFO  HomePage :28 - Verifying Homepage Url
+2024-02-01 18:02:575 INFO  HomePage :34 - Click on accept All Cookies[[ChromeDriver: chrome on windows (2d9ecca37b153ba6fca17ccbfa2863fb)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-01 18:02:749 INFO  LoginPage :40 - Clicking on LoginLink [[ChromeDriver: chrome on windows (2d9ecca37b153ba6fca17ccbfa2863fb)] -> link text: Login]
+2024-02-01 18:02:782 INFO  ManageBrowser :35 - Chrome Browser Launch .....
+2024-02-01 18:02:169 INFO  HomePage :28 - Verifying Homepage Url
+2024-02-01 18:02:259 INFO  HomePage :34 - Click on accept All Cookies[[ChromeDriver: chrome on windows (270402b5e194ec0c60b8ed1897eadce2)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-01 18:02:449 INFO  LoginPage :40 - Clicking on LoginLink [[ChromeDriver: chrome on windows (270402b5e194ec0c60b8ed1897eadce2)] -> link text: Login]
+2024-02-01 18:02:152 INFO  ManageBrowser :35 - Chrome Browser Launch .....
+2024-02-01 18:02:493 INFO  HomePage :28 - Verifying Homepage Url
+2024-02-01 18:02:567 INFO  HomePage :34 - Click on accept All Cookies[[ChromeDriver: chrome on windows (c692a8c19c21164cfe9f9d6e2c7bcc9e)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-01 18:02:759 INFO  LoginPage :40 - Clicking on LoginLink [[ChromeDriver: chrome on windows (c692a8c19c21164cfe9f9d6e2c7bcc9e)] -> link text: Login]
+2024-02-01 18:02:09 INFO  ManageBrowser :35 - Chrome Browser Launch .....
+2024-02-01 18:02:515 INFO  HomePage :28 - Verifying Homepage Url
+2024-02-01 18:02:606 INFO  HomePage :34 - Click on accept All Cookies[[ChromeDriver: chrome on windows (4020a5082af25f008956745ecea4a3e3)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-01 18:02:824 INFO  LoginPage :40 - Clicking on LoginLink [[ChromeDriver: chrome on windows (4020a5082af25f008956745ecea4a3e3)] -> link text: Login]
+2024-02-01 18:02:68 INFO  ManageBrowser :35 - Chrome Browser Launch .....
+2024-02-01 18:02:589 INFO  HomePage :28 - Verifying Homepage Url
+2024-02-01 18:02:671 INFO  HomePage :34 - Click on accept All Cookies[[ChromeDriver: chrome on windows (26e8837239527c791ce90bed9d2cb667)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-01 18:02:917 INFO  LoginPage :40 - Clicking on LoginLink [[ChromeDriver: chrome on windows (26e8837239527c791ce90bed9d2cb667)] -> link text: Login]
+2024-02-01 18:02:641 INFO  ManageBrowser :35 - Chrome Browser Launch .....
+2024-02-01 18:02:245 INFO  HomePage :28 - Verifying Homepage Url
+2024-02-01 18:02:333 INFO  HomePage :34 - Click on accept All Cookies[[ChromeDriver: chrome on windows (c970d4c3739db159db300a042390b1fa)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-01 18:02:562 INFO  LoginPage :40 - Clicking on LoginLink [[ChromeDriver: chrome on windows (c970d4c3739db159db300a042390b1fa)] -> link text: Login]
+2024-02-01 19:02:301 INFO  ManageBrowser :35 - Chrome Browser Launch .....
+2024-02-01 19:02:740 INFO  HomePage :28 - Verifying Homepage Url
+2024-02-01 19:02:825 INFO  HomePage :34 - Click on accept All Cookies[[ChromeDriver: chrome on windows (56a6881537587356d7e1a54c6ee9635a)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-01 19:02:58 INFO  LoginPage :40 - Clicking on LoginLink [[ChromeDriver: chrome on windows (56a6881537587356d7e1a54c6ee9635a)] -> link text: Login]
+2024-02-02 09:02:591 INFO  ManageBrowser :35 - Chrome Browser Launch .....
+2024-02-02 09:02:131 INFO  HomePage :28 - Verifying Homepage Url
+2024-02-02 09:02:371 INFO  HomePage :34 - Click on accept All Cookies[[ChromeDriver: chrome on windows (ebe938ce34924be75c5e1dbbb6455530)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-02 09:02:339 INFO  LoginPage :40 - Clicking on LoginLink [[ChromeDriver: chrome on windows (ebe938ce34924be75c5e1dbbb6455530)] -> link text: Login]
+2024-02-02 09:02:962 INFO  ManageBrowser :35 - Chrome Browser Launch .....
+2024-02-02 09:02:619 INFO  HomePage :28 - Verifying Homepage Url
+2024-02-02 09:02:994 INFO  HomePage :34 - Click on accept All Cookies[[ChromeDriver: chrome on windows (b2050c98dc578031a6792bb719dabcdf)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-02 09:02:64 INFO  LoginPage :40 - Clicking on LoginLink [[ChromeDriver: chrome on windows (b2050c98dc578031a6792bb719dabcdf)] -> link text: Login]
+2024-02-02 10:02:419 INFO  ManageBrowser :35 - Chrome Browser Launch .....
+2024-02-02 10:02:792 INFO  HomePage :28 - Verifying Homepage Url
+2024-02-02 10:02:874 INFO  HomePage :34 - Click on accept All Cookies[[ChromeDriver: chrome on windows (638e4d06a5f70157e3423e8a795ead7e)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-02 10:02:123 INFO  LoginPage :40 - Clicking on LoginLink [[ChromeDriver: chrome on windows (638e4d06a5f70157e3423e8a795ead7e)] -> link text: Login]
+2024-02-02 10:02:571 INFO  ManageBrowser :35 - Chrome Browser Launch .....
+2024-02-02 10:02:927 INFO  HomePage :28 - Verifying Homepage Url
+2024-02-02 10:02:19 INFO  HomePage :34 - Click on accept All Cookies[[ChromeDriver: chrome on windows (0db9e7c597aa485fb5974a698ba6927b)] -> xpath: (//label[@class='dialog_button'])[2]]
+2024-02-02 10:02:230 INFO  LoginPage :40 - Clicking on LoginLink [[ChromeDriver: chrome on windows (0db9e7c597aa485fb5974a698ba6927b)] -> link text: Login]
